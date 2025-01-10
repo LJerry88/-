@@ -37,7 +37,7 @@ pip show numpy
 第三步：在mumu12全屏下打开游戏商店界面，alt+tab切到cmd界面，进入你放置该代码的目录下（用cd命令，比如我的就是输入 cd desktop/e7）
 
 
-第四步：cmd中输入 python main.py     会提示刷新商店次数，输入次数，然后enter键
+第四步：cmd中输入 python main.py然后按enter     会提示刷新商店次数，输入次数，然后enter键
 
 
 第五步:!!!!!!在上述步骤后快速alt+tab切到模拟器游戏中，防止代码开始跑了识别错误！！！！！！！！！
