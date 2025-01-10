@@ -11,12 +11,26 @@
 
 
 第二部：打开cmd（win+r），键入如下代码（安装一些依赖来运行脚本）
+
+
 pip install keyboard
+
+
 pip install opencv-python
+
+
 pip install pyautogui
+
+
 pip install mouse
+
+
 pip install pillow
+
+
 pip install pywin32
+
+
 pip show numpy
 
 
