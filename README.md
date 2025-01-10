@@ -34,7 +34,7 @@ pip install pywin32
 pip show numpy
 
 
-第三步：在mumu12全屏下打开游戏商店界面，alt+tab切到cmd界面，进入你放置该代码的目录下（用cd命令，比如我的就是输入 cd desktop/e7然后按enter就进入该目录了，但是你们下下来代码文件夹名字是--main，如果放在桌面上，那么cd命令就是cd desktop/--main）
+第三步：在mumu12全屏下打开游戏商店界面，alt+tab切到cmd界面（提前打开cmd切出去），进入你放置该代码的目录下（用cd命令，比如我的就是输入 cd desktop/e7然后按enter就进入该目录了，但是你们下下来代码文件夹名字是--main，如果放在桌面上，那么cd命令就是cd desktop/--main）
 
 
 第四步：cmd中输入 python main.py然后按enter     会提示刷新商店次数，输入次数，然后enter键
